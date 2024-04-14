@@ -1,0 +1,234 @@
+,,0
+FIPS,FIPS,1.0
+FIPS,% Low Birthweight,0.4151970565819013
+FIPS,% Adults with Obesity,0.6089944958166342
+FIPS,% Physically Inactive,0.5227300951909858
+FIPS,NatWalkInd,-0.5222147504557828
+% Fair or Poor Health,% Fair or Poor Health,1.0
+% Fair or Poor Health,Average Number of Physically Unhealthy Days,0.9453932942405431
+% Fair or Poor Health,% Adults with Obesity,0.8604977579393642
+% Fair or Poor Health,Food Environment Index,-0.7096285533218298
+% Fair or Poor Health,% Physically Inactive,0.9217378033255176
+Average Number of Physically Unhealthy Days,% Fair or Poor Health,0.9453932942405431
+Average Number of Physically Unhealthy Days,Average Number of Physically Unhealthy Days,1.0
+Average Number of Physically Unhealthy Days,Average Number of Mentally Unhealthy Days,0.5854388064484686
+Average Number of Physically Unhealthy Days,% Adults with Obesity,0.8800150481299868
+Average Number of Physically Unhealthy Days,Food Environment Index,-0.74654564260961
+Average Number of Physically Unhealthy Days,% Physically Inactive,0.854802570597015
+Average Number of Physically Unhealthy Days,% With Access to Exercise Opportunities,-0.462974948392305
+Average Number of Physically Unhealthy Days,NatWalkInd,-0.40948946352005844
+Average Number of Physically Unhealthy Days,TotEmp,-0.40862767271038714
+Average Number of Physically Unhealthy Days,CBSA_POP,-0.42371063080113797
+Average Number of Physically Unhealthy Days,CBSA_EMP,-0.4261153528037396
+Average Number of Mentally Unhealthy Days,Average Number of Physically Unhealthy Days,0.5854388064484686
+Average Number of Mentally Unhealthy Days,Average Number of Mentally Unhealthy Days,1.0
+Average Number of Mentally Unhealthy Days,% Adults with Obesity,0.4181183623250758
+Average Number of Mentally Unhealthy Days,Food Environment Index,-0.44212345735509617
+Average Number of Mentally Unhealthy Days,% With Access to Exercise Opportunities,-0.4488576511055116
+Average Number of Mentally Unhealthy Days,NatWalkInd,-0.4221090716215252
+Average Number of Mentally Unhealthy Days,TotEmp,-0.4121845776510943
+Average Number of Mentally Unhealthy Days,D5AR,-0.4039718757705691
+Average Number of Mentally Unhealthy Days,CBSA_POP,-0.46331442185901944
+Average Number of Mentally Unhealthy Days,CBSA_EMP,-0.46411681847465963
+Average Number of Mentally Unhealthy Days,D3APO,-0.47034016925279
+% Low Birthweight,FIPS,0.4151970565819013
+% Low Birthweight,% Low Birthweight,1.0
+% Low Birthweight,% Adults with Obesity,0.41578480447792393
+% Adults with Obesity,FIPS,0.6089944958166342
+% Adults with Obesity,% Fair or Poor Health,0.8604977579393642
+% Adults with Obesity,Average Number of Physically Unhealthy Days,0.8800150481299868
+% Adults with Obesity,Average Number of Mentally Unhealthy Days,0.4181183623250758
+% Adults with Obesity,% Low Birthweight,0.41578480447792393
+% Adults with Obesity,% Adults with Obesity,1.0
+% Adults with Obesity,Food Environment Index,-0.6680353234488974
+% Adults with Obesity,% Physically Inactive,0.8352365097504064
+% Adults with Obesity,% With Access to Exercise Opportunities,-0.4566769428630511
+% Adults with Obesity,% Drive Alone to Work,0.5514749042282141
+% Adults with Obesity,NatWalkInd,-0.5017575996047141
+% Adults with Obesity,CBSA_POP,-0.42070702468045895
+% Adults with Obesity,CBSA_EMP,-0.427037444769912
+Food Environment Index,% Fair or Poor Health,-0.7096285533218298
+Food Environment Index,Average Number of Physically Unhealthy Days,-0.74654564260961
+Food Environment Index,Average Number of Mentally Unhealthy Days,-0.44212345735509617
+Food Environment Index,% Adults with Obesity,-0.6680353234488974
+Food Environment Index,Food Environment Index,1.0
+Food Environment Index,% Physically Inactive,-0.6328985751339937
+Food Environment Index,% With Access to Exercise Opportunities,0.4438607645334067
+% Physically Inactive,FIPS,0.5227300951909858
+% Physically Inactive,% Fair or Poor Health,0.9217378033255176
+% Physically Inactive,Average Number of Physically Unhealthy Days,0.854802570597015
+% Physically Inactive,% Adults with Obesity,0.8352365097504064
+% Physically Inactive,Food Environment Index,-0.6328985751339937
+% Physically Inactive,% Physically Inactive,1.0
+% With Access to Exercise Opportunities,Average Number of Physically Unhealthy Days,-0.462974948392305
+% With Access to Exercise Opportunities,Average Number of Mentally Unhealthy Days,-0.4488576511055116
+% With Access to Exercise Opportunities,% Adults with Obesity,-0.4566769428630511
+% With Access to Exercise Opportunities,Food Environment Index,0.4438607645334067
+% With Access to Exercise Opportunities,% With Access to Exercise Opportunities,1.0
+% With Access to Exercise Opportunities,NatWalkInd,0.6487206777776525
+% With Access to Exercise Opportunities,D4A,-0.45078556858794205
+% With Access to Exercise Opportunities,TotEmp,0.45623276695978887
+% With Access to Exercise Opportunities,D3APO,0.6014245590851005
+% With Access to Exercise Opportunities,D3AAO,0.40724903868702284
+% Driving Deaths with Alcohol Involvement,% Driving Deaths with Alcohol Involvement,1.0
+Average Daily PM2.5,Average Daily PM2.5,1.0
+Average Daily PM2.5,TotPop,0.5256880498351874
+% Drive Alone to Work,% Adults with Obesity,0.5514749042282141
+% Drive Alone to Work,% Drive Alone to Work,1.0
+% Drive Alone to Work,NatWalkInd,-0.5341250263276094
+% Drive Alone to Work,D5AR,-0.7007012570392743
+% Drive Alone to Work,CBSA_POP,-0.5466853359948705
+% Drive Alone to Work,CBSA_EMP,-0.5516993210443127
+% Drive Alone to Work,Pct_AO0,-0.6777756766941284
+% Drive Alone to Work,D4C,-0.8265868410726251
+% Drive Alone to Work,Pct_AO2p,0.4877292045302061
+% Drive Alone to Work,D4D,-0.7218842661122338
+% Long Commute - Drives Alone,% Long Commute - Drives Alone,1.0
+% Long Commute - Drives Alone,CBSA_POP,0.4705930427011044
+% Long Commute - Drives Alone,CBSA_EMP,0.4669027878686156
+% Long Commute - Drives Alone,D4C,0.44477931871800375
+% Long Commute - Drives Alone,Pct_AO1,-0.4134742040578357
+Unnamed: 0,Unnamed: 0,1.0
+NatWalkInd,FIPS,-0.5222147504557828
+NatWalkInd,Average Number of Physically Unhealthy Days,-0.40948946352005844
+NatWalkInd,Average Number of Mentally Unhealthy Days,-0.4221090716215252
+NatWalkInd,% Adults with Obesity,-0.5017575996047141
+NatWalkInd,% With Access to Exercise Opportunities,0.6487206777776525
+NatWalkInd,% Drive Alone to Work,-0.5341250263276094
+NatWalkInd,NatWalkInd,1.0
+NatWalkInd,D4A,-0.7208492706585025
+NatWalkInd,TotEmp,0.5545546564073031
+NatWalkInd,D5AR,0.5770779436423161
+NatWalkInd,CBSA_POP,0.4588340244597141
+NatWalkInd,CBSA_EMP,0.45802269567354653
+NatWalkInd,D4C,0.4296245631434017
+NatWalkInd,D3APO,0.8229080398580313
+NatWalkInd,D3AAO,0.5686746995983202
+D4A,% With Access to Exercise Opportunities,-0.45078556858794205
+D4A,NatWalkInd,-0.7208492706585025
+D4A,D4A,1.0
+D4A,D5AR,-0.42696691511224183
+D4A,Pct_AO0,-0.4199660619895799
+D4A,D4C,-0.4544350626452046
+D4A,Pct_AO2p,0.44072077413177335
+D4A,D3APO,-0.4506961478487666
+TotEmp,Average Number of Physically Unhealthy Days,-0.40862767271038714
+TotEmp,Average Number of Mentally Unhealthy Days,-0.4121845776510943
+TotEmp,% With Access to Exercise Opportunities,0.45623276695978887
+TotEmp,NatWalkInd,0.5545546564073031
+TotEmp,TotEmp,1.0
+TotEmp,TotPop,0.6105107122425779
+TotEmp,D2A_JPHH,0.4470650228997127
+TotEmp,D5AR,0.4355280791870103
+TotEmp,D4C,0.48625620093948085
+TotEmp,D3APO,0.5405897746153167
+TotEmp,D3AAO,0.6292922316920729
+TotEmp,D4D,0.4834619385114274
+TotPop,Average Daily PM2.5,0.5256880498351874
+TotPop,TotEmp,0.6105107122425779
+TotPop,TotPop,1.0
+TotPop,D3AAO,0.40022534347279415
+D2A_JPHH,TotEmp,0.4470650228997127
+D2A_JPHH,D2A_JPHH,1.0
+D2A_JPHH,D4C,0.41032437507297886
+D2A_JPHH,D4D,0.4069101988484832
+D5AR,Average Number of Mentally Unhealthy Days,-0.4039718757705691
+D5AR,% Drive Alone to Work,-0.7007012570392743
+D5AR,NatWalkInd,0.5770779436423161
+D5AR,D4A,-0.42696691511224183
+D5AR,TotEmp,0.4355280791870103
+D5AR,D5AR,1.0
+D5AR,CBSA_POP,0.8155736847688849
+D5AR,CBSA_EMP,0.8173656802349374
+D5AR,Pct_AO0,0.6986166239090305
+D5AR,D4C,0.8034261156926323
+D5AR,Pct_AO2p,-0.4947826775059038
+D5AR,D3APO,0.4143946298116704
+D5AR,D3AAO,0.5191905049375576
+D5AR,D4D,0.6687432675930792
+CBSA_POP,Average Number of Physically Unhealthy Days,-0.42371063080113797
+CBSA_POP,Average Number of Mentally Unhealthy Days,-0.46331442185901944
+CBSA_POP,% Adults with Obesity,-0.42070702468045895
+CBSA_POP,% Drive Alone to Work,-0.5466853359948705
+CBSA_POP,% Long Commute - Drives Alone,0.4705930427011044
+CBSA_POP,NatWalkInd,0.4588340244597141
+CBSA_POP,D5AR,0.8155736847688849
+CBSA_POP,CBSA_POP,1.0
+CBSA_POP,CBSA_EMP,0.9988910871246494
+CBSA_POP,Pct_AO0,0.46491219875198814
+CBSA_POP,D4C,0.5925524231083883
+CBSA_POP,D4D,0.4536367938082525
+CBSA_EMP,Average Number of Physically Unhealthy Days,-0.4261153528037396
+CBSA_EMP,Average Number of Mentally Unhealthy Days,-0.46411681847465963
+CBSA_EMP,% Adults with Obesity,-0.427037444769912
+CBSA_EMP,% Drive Alone to Work,-0.5516993210443127
+CBSA_EMP,% Long Commute - Drives Alone,0.4669027878686156
+CBSA_EMP,NatWalkInd,0.45802269567354653
+CBSA_EMP,D5AR,0.8173656802349374
+CBSA_EMP,CBSA_POP,0.9988910871246494
+CBSA_EMP,CBSA_EMP,1.0
+CBSA_EMP,Pct_AO0,0.46757895382632075
+CBSA_EMP,D4C,0.5948680050321791
+CBSA_EMP,D4D,0.4544666132517954
+Pct_AO0,% Drive Alone to Work,-0.6777756766941284
+Pct_AO0,D4A,-0.4199660619895799
+Pct_AO0,D5AR,0.6986166239090305
+Pct_AO0,CBSA_POP,0.46491219875198814
+Pct_AO0,CBSA_EMP,0.46757895382632075
+Pct_AO0,Pct_AO0,1.0
+Pct_AO0,D4C,0.9120006800860557
+Pct_AO0,Pct_AO2p,-0.8218042811143477
+Pct_AO0,D4D,0.8636294733988813
+D4C,% Drive Alone to Work,-0.8265868410726251
+D4C,% Long Commute - Drives Alone,0.44477931871800375
+D4C,NatWalkInd,0.4296245631434017
+D4C,D4A,-0.4544350626452046
+D4C,TotEmp,0.48625620093948085
+D4C,D2A_JPHH,0.41032437507297886
+D4C,D5AR,0.8034261156926323
+D4C,CBSA_POP,0.5925524231083883
+D4C,CBSA_EMP,0.5948680050321791
+D4C,Pct_AO0,0.9120006800860557
+D4C,D4C,1.0
+D4C,Pct_AO2p,-0.8083524231431983
+D4C,D3AAO,0.4933089739478674
+D4C,D4D,0.9474279732098233
+Pct_AO1,% Long Commute - Drives Alone,-0.4134742040578357
+Pct_AO1,Pct_AO1,1.0
+Pct_AO1,Pct_AO2p,-0.6361896566255202
+Pct_AO2p,% Drive Alone to Work,0.4877292045302061
+Pct_AO2p,D4A,0.44072077413177335
+Pct_AO2p,D5AR,-0.4947826775059038
+Pct_AO2p,Pct_AO0,-0.8218042811143477
+Pct_AO2p,D4C,-0.8083524231431983
+Pct_AO2p,Pct_AO1,-0.6361896566255202
+Pct_AO2p,Pct_AO2p,1.0
+Pct_AO2p,D4D,-0.7093546909301123
+D3APO,Average Number of Mentally Unhealthy Days,-0.47034016925279
+D3APO,% With Access to Exercise Opportunities,0.6014245590851005
+D3APO,NatWalkInd,0.8229080398580313
+D3APO,D4A,-0.4506961478487666
+D3APO,TotEmp,0.5405897746153167
+D3APO,D5AR,0.4143946298116704
+D3APO,D3APO,1.0
+D3APO,D3AAO,0.5232271558508714
+D3AAO,% With Access to Exercise Opportunities,0.40724903868702284
+D3AAO,NatWalkInd,0.5686746995983202
+D3AAO,TotEmp,0.6292922316920729
+D3AAO,TotPop,0.40022534347279415
+D3AAO,D5AR,0.5191905049375576
+D3AAO,D4C,0.4933089739478674
+D3AAO,D3APO,0.5232271558508714
+D3AAO,D3AAO,1.0
+D3AAO,D4D,0.461832144053537
+D4D,% Drive Alone to Work,-0.7218842661122338
+D4D,TotEmp,0.4834619385114274
+D4D,D2A_JPHH,0.4069101988484832
+D4D,D5AR,0.6687432675930792
+D4D,CBSA_POP,0.4536367938082525
+D4D,CBSA_EMP,0.4544666132517954
+D4D,Pct_AO0,0.8636294733988813
+D4D,D4C,0.9474279732098233
+D4D,Pct_AO2p,-0.7093546909301123
+D4D,D3AAO,0.461832144053537
+D4D,D4D,1.0
